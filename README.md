@@ -29,7 +29,7 @@
 
 ### How to use
 1. Download this repository
-2. Install dependencies from requirements.txt
+2. Install dependencies from `requirements.txt`
 3. Check configs in `constants.py`. Customize them. Remember to change chrome.exe and chromedriver.exe paths.
 4. Provide input excel file to `input/companies.xlsx` or custom path (set in INPUT_EXCEL_FILE_PATH). Column names can be set in `constants.py`. Ensure that input excel file has following columns:
     - Company
