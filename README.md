@@ -35,7 +35,7 @@
     - Company
     - ИНН
     - Mother
-5. Turn on VPN (otherwise there can be some problems with connection to `https://www.audit-it.ru/buh_otchet/`
+5. Turn on VPN (otherwise there can be some problems with connection to `https://www.audit-it.ru/buh_otchet/`)
 6. Run `main.py`
 7. The chrome tab will be opened in a new window but you can collapse it and keep doing other things while data is being gathered.
 8. Company name and its sequence number are printed to the output so you can check the status of data gathering there.
